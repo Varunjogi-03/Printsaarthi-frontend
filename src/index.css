@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@plugin "daisyui";
+
+@layer base {
+  :root {
+  }
+  body {
+    @apply text-brand-text-primary bg-base-100;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply text-brand-text-primary;
+  }
+  p, small, .muted, .supporting-text {
+    @apply text-brand-text-secondary;
+  }
+  hr, .divider, .separator {
+    @apply border-brand-stroke;
+  }
+}
