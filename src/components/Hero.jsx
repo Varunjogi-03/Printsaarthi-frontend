@@ -66,7 +66,7 @@ function Hero() {
           <div className="mt-8 flex flex-wrap justify-center lg:justify-start gap-6 text-white">
             <div className="flex items-center gap-2">
               <div className="w-3 h-3 bg-green-400 rounded-full"></div>
-              <span className="text-sm">100+ Happy Customers</span>
+              <span className="text-sm">Many Happy Customers</span>
             </div>
             <div className="flex items-center gap-2">
               <div className="w-3 h-3 bg-green-400 rounded-full"></div>
@@ -74,7 +74,7 @@ function Hero() {
             </div>
             <div className="flex items-center gap-2">
               <div className="w-3 h-3 bg-green-400 rounded-full"></div>
-              <span className="text-sm">Free Delivery</span>
+              <span className="text-sm">Free Delivery on first Order</span>
             </div>
           </div>
         </div>
