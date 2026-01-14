@@ -16,7 +16,7 @@ function App() {
       <div className="min-h-screen bg-base-100 flex items-center justify-center">
         <div className="text-center">
           <div className="loading loading-spinner loading-lg text-yellow-400"></div>
-          <p className="mt-4 text-white">Loading...</p>
+          <p className="mt-4 text-white">Loading</p>
         </div>
       </div>
     )
